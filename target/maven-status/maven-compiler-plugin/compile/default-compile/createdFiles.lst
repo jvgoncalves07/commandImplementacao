@@ -1,0 +1,5 @@
+Cliente.class
+BCommand.class
+Command.class
+Invoker.class
+ACommand.class
